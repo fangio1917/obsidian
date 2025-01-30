@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHammer",
+      "⚙",
+      "4️⃣",
+      "3️⃣",
+      "LiPi"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "PEE/math": "LiRemoveFormatting",
+  "PEE/DS+C": "LiComputer",
+  "PEE/daily_report": "LiSunMoon",
+  "PEE/politics": "LiHammer",
+  "PEE": "LiSchool2",
+  "PEE/DS+C/data_struct": "LiStackVertical",
+  "PEE/DS+C/c": "LiCode2",
+  "PEE/math/Advanced_Mathematics": "LiPi",
+  "PEE/math/linear_algebra": "LiLineChart",
+  "PEE/daily_report/3_March": "3️⃣",
+  "PEE/daily_report/4_April": "4️⃣"
+}

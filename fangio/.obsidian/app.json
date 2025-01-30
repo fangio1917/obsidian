@@ -1,0 +1,6 @@
+{
+  "showRibbon": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./.attachments",
+  "promptDelete": false
+}

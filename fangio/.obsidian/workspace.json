@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "869f77f647e3da1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0c087743d375d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83036b24aafed951",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PEE/math/basic/pdf_resource/（1）2026考研数学零基础提前学作业（1）周洋鑫.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "（1）2026考研数学零基础提前学作业（1）周洋鑫"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9e9f44fc9bcf2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0849e70e263dafa0",
+        "type": "tabs",
+        "dimension": 59.88083416087389,
+        "children": [
+          {
+            "id": "8c2e9554abcee088",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "89ec5d5531e14d7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddf1921ed8c71ca4",
+        "type": "tabs",
+        "dimension": 40.11916583912612,
+        "children": [
+          {
+            "id": "57838a64cef2f978",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "da8874f1e32f8747",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31eb5764ac6134d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "68106f50230e9f23",
+        "type": "tabs",
+        "dimension": 54.95238095238094,
+        "children": [
+          {
+            "id": "fafd60073198ac3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PEE/math/basic/pdf_resource/（1）2026考研数学零基础提前学作业（1）周洋鑫.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "（1）2026考研数学零基础提前学作业（1）周洋鑫 的反向链接列表"
+            }
+          },
+          {
+            "id": "00809506031db886",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PEE/math/basic/pdf_resource/（1）2026考研数学零基础提前学作业（1）周洋鑫.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "（1）2026考研数学零基础提前学作业（1）周洋鑫 的出链列表"
+            }
+          },
+          {
+            "id": "332f01f9c87d8396",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "24cb0efa015b9bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PEE/math/basic/pdf_resource/（1）2026考研数学零基础提前学作业（1）周洋鑫.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "（1）2026考研数学零基础提前学作业（1）周洋鑫 的大纲"
+            }
+          },
+          {
+            "id": "974771e5f6747064",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "13873d52880b48db",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c44d5637dfdb4d4a",
+        "type": "tabs",
+        "dimension": 45.04761904761906,
+        "children": [
+          {
+            "id": "f9b7788421bf6bf5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5172cd5a0cffc4fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:查看关系图谱": false,
+      "obsidian-projects:打开项目": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "83036b24aafed951",
+  "lastOpenFiles": [
+    "PEE/math/basic/pdf_resource/（22）2026考研数学零基础通关测试卷（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（21）2026零基础提前学通关测试卷（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（20）2026考研数学零基础提前学12（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（19）同济大学高等数学习题全解指南第七版上.pdf",
+    "PEE/math/basic/pdf_resource/（18）2026考研数学零基础提前学11（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（17）2026考研数学零基础提前学10（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（16）2026考研数学零基础提前学9（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（15）2026考研数学零基础提前学8（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（14）2026考研数学零基础提前学7（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（13）2026考研数学零基础提前学6（周洋鑫）.pdf",
+    "PEE/math/basic/pdf_resource/（12）2026考研数学零基础提前学5（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/other.md",
+    "PEE/math/linear_algebra/first class.md",
+    "Excalidraw/Drawing 2025-01-29 01.45.16.excalidraw.md",
+    "Tasks Plugin - Review and check your Statuses 2025-01-29 01-32-18.md",
+    "Excalidraw/Drawing 2025-01-29 01.22.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-29 01.18.20.excalidraw.md",
+    "未命名看板.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "2025-01-29.md",
+    "欢迎.md",
+    "未命名.canvas",
+    "daily_report/未命名.md",
+    "2025-01-28.md"
+  ]
+}
