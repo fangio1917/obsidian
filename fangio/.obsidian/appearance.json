@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Encore",
+  "translucency": true,
+  "nativeMenus": true,
+  "theme": "obsidian",
+  "accentColor": "#606060",
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}
