@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "fd61189ffc945445",
+    "type": "split",
+    "children": [
+      {
+        "id": "27881e156219c821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17484b8fe9c7fb13",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PEE/math/Advanced_Mathematics/zero_base/answer/（22）2026考研数学零基础通关测试卷（周洋鑫）.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "（22）2026考研数学零基础通关测试卷（周洋鑫）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7572f36128827e10",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b81192eef65b6280",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d34e9dcc3449a525",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f45718b0680413af",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "aebf3968e12e18a1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fae137a26b0dbd17",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dc4af1cca3766a7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PEE/math/Advanced_Mathematics/zero_base/answer/（22）2026考研数学零基础通关测试卷（周洋鑫）.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1b609e366acffb01",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PEE/math/zero_base/note/（10）2026考研数学零基础提前学3（周洋鑫）.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b4a7b05590141077",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "PEE/math/zero_base/note/（10）2026考研数学零基础提前学3（周洋鑫）.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "5a5f43db1b428602",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7956a279daa76977",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17484b8fe9c7fb13",
+  "lastOpenFiles": [
+    "PEE/math/Advanced_Mathematics/zero_base/note/（20）2026考研数学零基础提前学12（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（18）2026考研数学零基础提前学11（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/导数/积分.md",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（17）2026考研数学零基础提前学10（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（16）2026考研数学零基础提前学9（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（15）2026考研数学零基础提前学8（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/导数/导数.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/四则运算.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/极限.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/函数概念/三角函数.md",
+    "PEE/math/zero_base/note/（13）2026考研数学零基础提前学6（周洋鑫）.pdf",
+    "PEE/math/zero_base/note/（20）2026考研数学零基础提前学12（周洋鑫）.pdf",
+    "PEE/math/zero_base/note/（10）2026考研数学零基础提前学3（周洋鑫）.pdf",
+    "PEE/math/zero_base/note/（9）2026考研数学零基础提前学2（周洋鑫）.pdf",
+    "PEE/math/zero_base/basical note.md",
+    "PEE/math/zero_base/note/（8）2026考研数学零基础提前学1（周洋鑫）.pdf",
+    "PEE/math/zero_base/note/（11）2026考研数学零基础提前学4（周洋鑫）.pdf",
+    "2025-02-06.md",
+    "Excalidraw/Drawing 2025-02-06 14.13.39.excalidraw.md",
+    "PEE/DS+C/c/leetcode/leetcode-1.两数之和.md",
+    "PEE/DS+C/c/leetcode/A做题记录.md"
+  ]
+}

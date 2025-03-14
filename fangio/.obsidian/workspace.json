@@ -4,24 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "4c884fad88373b03",
+        "id": "e6c9ffc45a37815c",
         "type": "tabs",
         "children": [
           {
-            "id": "171c8c318d0bb4e2",
+            "id": "16b2fa59de6270a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEE/math/zero_base/basical note.md",
+                "file": "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/泰勒公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basical note"
+              "title": "泰勒公式"
+            }
+          },
+          {
+            "id": "ce919d2c3f7a6197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEE/math/Advanced_Mathematics/Base/1. 函数极限与连续.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 函数极限与连续"
+            }
+          },
+          {
+            "id": "87ab6d1d586294a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "67947180e759c80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/泰勒公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰勒公式"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -33,7 +74,7 @@
       {
         "id": "0849e70e263dafa0",
         "type": "tabs",
-        "dimension": 59.88083416087389,
+        "dimension": 66.66666666666667,
         "children": [
           {
             "id": "8c2e9554abcee088",
@@ -54,9 +95,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -70,18 +111,8 @@
       {
         "id": "ddf1921ed8c71ca4",
         "type": "tabs",
-        "dimension": 40.11916583912612,
+        "dimension": 33.333333333333336,
         "children": [
-          {
-            "id": "57838a64cef2f978",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
           {
             "id": "da8874f1e32f8747",
             "type": "leaf",
@@ -96,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 291
   },
   "right": {
     "id": "31eb5764ac6134d3",
@@ -105,7 +136,7 @@
       {
         "id": "68106f50230e9f23",
         "type": "tabs",
-        "dimension": 54.95238095238094,
+        "dimension": 32.761904761904766,
         "children": [
           {
             "id": "fafd60073198ac3c",
@@ -113,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEE/math/basic/pdf_resource/（1）2026考研数学零基础提前学作业（1）周洋鑫.pdf",
+                "file": "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/泰勒公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "（1）2026考研数学零基础提前学作业（1）周洋鑫 的反向链接列表"
+              "title": "泰勒公式 的反向链接列表"
             }
           },
           {
@@ -132,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEE/math/zero_base/basical note.md",
+                "file": "PEE/math/Advanced_Mathematics/Base/1. 函数极限与连续.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "basical note 的出链列表"
+              "title": "1. 函数极限与连续 的出链列表"
             }
           },
           {
@@ -161,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PEE/math/zero_base/basical note.md",
+                "file": "PEE/math/Advanced_Mathematics/Base/1. 函数极限与连续.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "basical note 的大纲"
+              "title": "1. 函数极限与连续 的大纲"
             }
           },
           {
@@ -181,7 +212,7 @@
             }
           },
           {
-            "id": "13873d52880b48db",
+            "id": "3f61a3079c4985e9",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -189,17 +220,9 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c44d5637dfdb4d4a",
-        "type": "tabs",
-        "dimension": 45.04761904761906,
-        "children": [
+          },
           {
-            "id": "f9b7788421bf6bf5",
+            "id": "b94b570c9676a0d1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -207,7 +230,15 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "c44d5637dfdb4d4a",
+        "type": "tabs",
+        "dimension": 67.23809523809524,
+        "children": [
           {
             "id": "5172cd5a0cffc4fe",
             "type": "leaf",
@@ -218,8 +249,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,52 +262,56 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:查看关系图谱": false,
       "obsidian-projects:打开项目": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "171c8c318d0bb4e2",
+  "active": "87ab6d1d586294a5",
   "lastOpenFiles": [
-    "PEE/math/zero_base/（19）高数课本_答案_上.pdf",
-    "PEE/math/zero_base/basical note.md",
-    "PEE/DS+C/C/leetcode/A做题记录.md",
-    "PEE/DS+C/C/leetcode/leetcode-1.两数之和.md",
-    "model/leetcode-.md",
-    "PEE/DS+C/C/leetcode/未命名 1.md",
-    "().md",
-    "未命名.md",
-    "未命名看板.md",
-    "model",
-    "PEE/math/zero_base/note/（9）2026考研数学零基础提前学2（周洋鑫）.pdf",
-    "PEE/DS+C/C/leetcode",
-    "PEE/DS+C/C",
-    "PEE/DS+C",
-    "PEE/math/zero_base/note/（10）2026考研数学零基础提前学3（周洋鑫）.pdf",
-    "PEE/math/zero_base/note/（20）2026考研数学零基础提前学12（周洋鑫）.pdf",
-    "PEE/math/zero_base/note/（18）2026考研数学零基础提前学11（周洋鑫）.pdf",
-    "PEE/math/zero_base/note/（17）2026考研数学零基础提前学10（周洋鑫）.pdf",
-    "PEE/math/zero_base/note/（16）2026考研数学零基础提前学9（周洋鑫）.pdf",
-    "PEE/math/考研考纲.md",
-    "PEE/math/zero_base/note/(7) 讲义批注.md",
-    "PEE/math/Advanced_Mathematics/other.md",
-    "PEE/math/linear_algebra/first class.md",
-    "Excalidraw/Drawing 2025-01-29 01.45.16.excalidraw.md",
-    "Tasks Plugin - Review and check your Statuses 2025-01-29 01-32-18.md",
-    "Excalidraw/Drawing 2025-01-29 01.22.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-29 01.18.20.excalidraw.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "2025-01-29.md",
-    "欢迎.md",
-    "未命名.canvas",
-    "daily_report/未命名.md",
-    "2025-01-28.md"
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/泰勒公式.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/无穷小量.md",
+    "PEE/math/Advanced_Mathematics/Base/1. 函数极限与连续.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/函数概念/三角函数.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/四则运算.md",
+    "PEE/math/Advanced_Mathematics/Base/0. 高数Base_catalogue.md",
+    "PEE/math/数学常用结论.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/极限.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/函数概念/函数概念.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/未命名.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/未命名 1.md",
+    "PEE/English/word/每日单词本.md",
+    "2025-02-26.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/base_node.md",
+    "PEE/math/Advanced_Mathematics/Base/2. 一元函数积分学.md",
+    "PEE/math/数学考研考纲.md",
+    "PEE/daily_report/2_February/2025-02-08.md",
+    "PEE/math/Advanced_Mathematics/Base/7. 二重积分.md",
+    "PEE/math/Advanced_Mathematics/Base/5. 中值定理.md",
+    "PEE/math/Advanced_Mathematics/Base/6. 多元函数微分学.md",
+    "PEE/math/Advanced_Mathematics/Base/4. 微分方程.md",
+    "PEE/math/Advanced_Mathematics/Base/3. 一元函数微分学.md",
+    "PEE/math/Advanced_Mathematics/zero_base/answer/（22）2026考研数学零基础通关测试卷（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/Base",
+    "PEE/English/word",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/导数.md",
+    "PEE/math/Advanced_Mathematics/zero_base/question/（21）2026零基础提前学通关测试卷（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（20）2026考研数学零基础提前学12（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（16）2026考研数学零基础提前学9（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（15）2026考研数学零基础提前学8（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（14）2026考研数学零基础提前学7（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（8）2026考研数学零基础提前学1（周洋鑫）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/积分.md",
+    "PEE/math/Advanced_Mathematics/zero_base/note/（7）2026周洋鑫零基础提前学讲义（最新版）.pdf",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/洛必达.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/未命名.md",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/Snipaste_2025-02-07_18-15-05.png",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/Snipaste_2025-02-07_18-16-20.png",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/极限/Pasted image 20250207181104.png",
+    "PEE/math/Advanced_Mathematics/zero_base/base_node/函数概念/Pasted image 20250207164801.png",
+    "未命名.canvas"
   ]
 }
